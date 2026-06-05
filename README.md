@@ -35,6 +35,9 @@ Sistema de gestión integral desarrollado para optimizar los procesos administra
 🚧 En desarrollo.
 *(Actualmente el proyecto se encuentra en fase de diseño e implementación de módulos fundamentales, incluyendo autenticación, gestión de inventario, administración de proveedores y control de ventas.)*
 
+**LINK DE RECURSOS EN GOOGLE DRIVE:**
+https://drive.google.com/drive/folders/1EnLBlgBRSlLf4O6E8TO-E4-pQJBPHhpq?usp=sharing
+
 ​**👨‍💻​ | AUTOR:**
 Orozco Botero Adrián Enrique.
 **Ingeniería de Sistemas**
