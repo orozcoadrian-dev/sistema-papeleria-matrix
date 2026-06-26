@@ -1,4 +1,4 @@
-![image alt](https://github.com/orozcoadrian-dev/sistema-papeleria-matrix/blob/460695915769cc7779628a7c57a2261b18da359c/03-disenio/branding/papeleria-matrix-banner.jpg)
+![image alt](https://github.com/orozcoadrian-dev/sistema-papeleria-matrix/blob/e1008f98100f872763a1f7aa6407bd29714f7dfc/03-disenio/01-Branding/01-logotipos-e-imagenes/papeleria-matrix-banner.png)
 
 <div align="center">
 
