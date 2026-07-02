@@ -1,0 +1,13 @@
+------------------------------------
+Autor: Orozco Botero Adrián Enrique
+Fecha creación: 01 de julio de 2026
+Fecha actualización: 
+------------------------------------
+
+*: El propósito de este archivo txt es documentar detalles muy importantes a la hora de solución y creación del Diagrama Entidad - Relación. Con fines de que todo quede claro y las preguntas que puedan surgir, sean respondidas.
+
+1. Resolución del paradigma POO en la base de datos:
+Se sabe que no existe <<extends>> o inherit en lenguaje SQL. Por ende, de los 3 estilos oficiales y reconocidos para dar solución a este caso. Se utilizó TPT (Table Per Type) y se marcó id_usuario como PK en las entidades hijas, pero cabe recalcar que así como es PK, cumple la función FK.
+
+2. Eliminación de atributo 'Activo':
+A nivel de diseño, no tiene sentido llenar una tabla por llenar, revisando CU-20 no hace falta tener un atirbuto de estado. Ya que si se modifica, se llenará el campo de actualizado, y si se borra, la clave debe borrarse.
